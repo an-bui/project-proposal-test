@@ -81,7 +81,7 @@ new idea
 
 Week 7: enter your own text here
 
-changing stuff, more stuff
+edits here instead
 
 Week 8 (timeline check in): enter your own text here
 
