@@ -59,7 +59,7 @@ change here
 
 **Potential figure 2:**
 
-[delete this line and enter your figure here; if you don't have one, delete the entire section]
+need a different photo to put here
 
 **Potential figure 3:**
 
