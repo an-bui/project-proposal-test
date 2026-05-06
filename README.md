@@ -35,7 +35,7 @@ Let's leave that for later
 
 **Topic:**  
 
-Do we have a topic?
+I don't think we have a topic either
 
 **Question(s):**  
 
