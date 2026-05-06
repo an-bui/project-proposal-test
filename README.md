@@ -25,7 +25,7 @@ Note:
 
 ## Names
 
-deleting entirely
+names here
 
 ## Group name (optional):
 
