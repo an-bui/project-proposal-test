@@ -85,14 +85,14 @@ entirely different name
 
 **GitHub/code director**
 
-enter name here
+[delete this line and enter your own text here]
 
 
 ## Elective (not required for all groups or group members)
 
 **Group members completing elective:**
 
-[delete this line and enter your own text here]
+new names here
 
 **Elective idea:**
 
