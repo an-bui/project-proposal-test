@@ -96,7 +96,7 @@ new names here
 
 **Elective idea:**
 
-[delete this line and enter your own text here]
+new idea
 
 **Elective timeline (what you will have completed each week):**
 
