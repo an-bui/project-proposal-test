@@ -43,7 +43,7 @@ Let's save that for later
 
 **Response variable(s)**
 
-[delete this line and enter your bullet point list here]
+change here
 
 ## Datasets
 
