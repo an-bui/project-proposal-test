@@ -81,7 +81,11 @@ my name here
 
 **Stats and visualization director**
 
+<<<<<<< HEAD
 diff name here
+=======
+another name here
+>>>>>>> refs/remotes/origin/main
 
 **GitHub/code director**
 
