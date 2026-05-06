@@ -81,7 +81,7 @@ my name here
 
 **Stats and visualization director**
 
-[delete this line and enter your own text here]
+another name here
 
 **GitHub/code director**
 
