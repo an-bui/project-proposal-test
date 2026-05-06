@@ -29,7 +29,7 @@ names here
 
 ## Group name (optional):
 
-[delete this line and enter your group name here; if you don't have one, delete the whole section]
+This is a fun group name
 
 ## Topic information and question
 
