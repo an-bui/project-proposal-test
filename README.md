@@ -25,7 +25,7 @@ Note:
 
 ## Group members
 
-An Bui, Francis Joyce
+no names instead
 
 ## Group name (optional):
 
