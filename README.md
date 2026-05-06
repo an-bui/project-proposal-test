@@ -108,7 +108,7 @@ Week 8 (timeline check in): enter your own text here
 
 Week 9: enter your own text here
 
-more stuff
+editing more stuff
 
 Week 10: enter your own text here
 
