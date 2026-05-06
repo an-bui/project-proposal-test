@@ -2,27 +2,6 @@
 
 **Spring 2026**
 
-Directions:
-
-- Use your work plan from class to fill in the information below.
-- Practice pulling, making changes, staging/committing/pulling/pushing to the same repo.
-- **Communicate about who is doing what throughout the entire process.**
-
-What you will submit on Friday the 15th:
-
-- proposal: a link to your forked repository with the completed proposal in the README
-- work plan: your paper plan that you completed in class on Monday the 4th
-
-Use your project proposal to:
-
-- refer back to the original plan while you are working
-- keep track of high-level changes in structure (e.g. role switching, elective modifications)
-
-Note:
-
-- your project proposal is subject to change after you learn more about your datasets and what is possible - allow yourselves the flexibility to make adjustments as needed
-- the more detail you can provide in your proposal, the more thorough your feedback will be
-
 ## New header
 
 names here
