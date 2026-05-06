@@ -25,7 +25,7 @@ Note:
 
 ## Group members
 
-no names instead
+there should be names here
 
 ## Group name (optional):
 
