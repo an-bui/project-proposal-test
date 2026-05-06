@@ -35,7 +35,7 @@ Let's leave that for later
 
 **Topic:**  
 
-[delete this line and enter your topic here]
+This is our topic
 
 **Question(s):**  
 
