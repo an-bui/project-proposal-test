@@ -102,6 +102,8 @@ new names here
 
 Week 7: enter your own text here
 
+changing stuff
+
 Week 8 (timeline check in): enter your own text here
 
 Week 9: enter your own text here
