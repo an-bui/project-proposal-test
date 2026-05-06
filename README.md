@@ -23,7 +23,7 @@ Note:
 - your project proposal is subject to change after you learn more about your datasets and what is possible - allow yourselves the flexibility to make adjustments as needed
 - the more detail you can provide in your proposal, the more thorough your feedback will be
 
-## Names
+## New header
 
 deleting entirely
 
