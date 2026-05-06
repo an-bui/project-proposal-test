@@ -67,7 +67,7 @@ need a different photo to put here
 
 **Potential figure 4**
 
-[delete this line and enter your figure here; if you don't have one, delete the entire section]
+Need a photo here
 
 ## Data cleaning/wrangling/summarizing plan
 
