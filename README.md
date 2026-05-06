@@ -77,7 +77,7 @@ Need a photo here
 
 **Natural history/framing director:**
 
-[delete this line and enter your own text here]
+my name here
 
 **Stats and visualization director**
 
