@@ -39,7 +39,7 @@ This is our topic
 
 **Question(s):**  
 
-[delete this line and enter your bullet point list here]
+This is our question
 
 **Response variable(s)**
 
