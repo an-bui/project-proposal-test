@@ -87,11 +87,11 @@ Week 8 (timeline check in): enter your own text here
 
 Week 9: enter your own text here
 
-another edit
+edits here
 
 Week 10: enter your own text here
 
-last change
+final change
 
 
 
