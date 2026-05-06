@@ -55,7 +55,7 @@ change here
 
 **Potential figure 1:**
 
-[delete this line and enter your figure here]
+need to take a photo and put it here
 
 **Potential figure 2:**
 
