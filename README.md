@@ -39,7 +39,7 @@ I don't think we have a topic either
 
 **Question(s):**  
 
-This is our question, but we don't have a question to fill out
+Let's save that for later
 
 **Response variable(s)**
 
