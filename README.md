@@ -71,7 +71,7 @@ Need a photo here
 
 ## Data cleaning/wrangling/summarizing plan
 
-[delete this line and enter your own text here]
+we need a plan
 
 ## Project roles
 
