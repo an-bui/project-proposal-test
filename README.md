@@ -85,7 +85,7 @@ entirely different name
 
 **GitHub/code director**
 
-enter name here
+new name
 
 
 ## Elective (not required for all groups or group members)
